@@ -1,14 +1,11 @@
-# .github
+# README
 
 ## Table of Contents
 
 - [Documentation](#documentation)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Support + Feedback](#support--feedback)
 - [Vulnerability Reporting](#vulnerability-reporting)
-- [Thank You](#thank-you)
 - [What is Auth0](#what-is-auth0)
 - [License](#license)
 
@@ -26,8 +23,6 @@ We appreciate feedback and contribution to this repo! Before you get started, pl
 - [Auth0's code of conduct](https://github.com/auth0/.github/blob/master/CODE_OF_CONDUCT.md)
 
 ## Support + Feedback
-
-Include information on how to get support. Consider adding:
 
 - Use Issues here for code-level support
 - Use [Community](https://community.auth0.com/) for usage, questions, specific cases
@@ -49,10 +44,6 @@ Auth0 helps you to easily:
 - enrich user profiles from other data sources using customizable JavaScript rules
 
 [Why Auth0?](https://auth0.com/why-auth0)
-
-## Thank You! (optional)
-
-Information on the dependencies used, if desired.
 
 ## License
 
