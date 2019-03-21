@@ -28,6 +28,6 @@
 - [ ] I have read the [Auth0 general contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md)
 - [ ] I have read the [Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md)
 - [ ] All existing and new tests complete without errors
-- [ ] All code quality tools/guidelines in the [CONTRIBUTING documentation](CONTRIBUTING.md) have been run/followed
-- [ ] All relevant assets have been compiled as directed in the [CONTRIBUTING documentation](CONTRIBUTING.md), if applicable
+- [ ] All code quality tools/guidelines in the [CONTRIBUTING documentation](/CONTRIBUTING.md) have been run/followed
+- [ ] All relevant assets have been compiled as directed in the [CONTRIBUTING documentation](/CONTRIBUTING.md), if applicable
 - [ ] The correct base branch is being used, if not `master`
